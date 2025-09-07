@@ -1,0 +1,15 @@
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\bin\Debug\net9.0\Example.exe
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\bin\Debug\net9.0\Example.deps.json
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\bin\Debug\net9.0\Example.runtimeconfig.json
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\bin\Debug\net9.0\Example.dll
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\bin\Debug\net9.0\Example.pdb
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.AssemblyInfoInputs.cache
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.AssemblyInfo.cs
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.csproj.CoreCompileInputs.cache
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.sourcelink.json
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.dll
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\refint\Example.dll
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.pdb
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\Example.genruntimeconfig.cache
+C:\Repo\PersonalProjects\Garbage-Collection-C-\Example\obj\Debug\net9.0\ref\Example.dll
